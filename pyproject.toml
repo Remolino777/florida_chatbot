@@ -11,6 +11,8 @@ pandas = "^2.2.3"
 streamlit = "^1.41.1"
 folium = "^0.19.4"
 ipykernel = "^6.29.5"
+geopy = "^2.4.1"
+textblob = "^0.18.0.post0"
 
 
 [build-system]
